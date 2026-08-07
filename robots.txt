@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boardgamereviews.net/blog-boardgamereviews/sitemap.xml
